@@ -1,0 +1,15 @@
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.AssemblyReference.cache
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/obj/Debug/net6.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfoInputs.cache
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfo.cs
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/bin/Debug/net6.0/MethodOverloading
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/bin/Debug/net6.0/MethodOverloading.deps.json
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/bin/Debug/net6.0/MethodOverloading.runtimeconfig.json
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/bin/Debug/net6.0/MethodOverloading.dll
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/bin/Debug/net6.0/MethodOverloading.pdb
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/obj/Debug/net6.0/MethodOverloading.dll
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/obj/Debug/net6.0/refint/MethodOverloading.dll
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/obj/Debug/net6.0/MethodOverloading.pdb
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/obj/Debug/net6.0/MethodOverloading.genruntimeconfig.cache
+/Users/justinsimon/Desktop/repos/repos/MethodOverloadingExercise/MethodOverloading/obj/Debug/net6.0/ref/MethodOverloading.dll
